@@ -7,7 +7,7 @@ export default defineComponent({
   setup() {
     return () => (
       <div class='login-wrap'>
-        <ElButton>aaaa</ElButton>
+        <ElButton>login</ElButton>
       </div>
     );
   }
