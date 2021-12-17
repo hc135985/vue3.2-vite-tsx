@@ -1,0 +1,19 @@
+{
+  "include": ["./**/*.tsx"],
+  "compilerOptions": {
+    "target": "esnext",
+    "jsx": "preserve",
+    "module": "esnext",
+    "strict": true,
+    "lib": ["es6", "dom"],
+    "declaration": true, 
+    "declarationMap": true, 
+    "sourceMap": true,
+    "removeComments": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "moduleResolution": "node"
+  }
+}

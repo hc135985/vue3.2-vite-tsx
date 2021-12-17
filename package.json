@@ -1,0 +1,35 @@
+{
+  "name": "vue_tsx",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.2.24",
+    "vue-router": "4.0.0-beta.2",
+    "vuex": "4.0.0-beta.4"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.0",
+    "@typescript-eslint/eslint-plugin": "^3.6.1",
+    "@typescript-eslint/parser": "^3.6.1",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "@vitejs/plugin-vue": "^1.10.2",
+    "@vue/compiler-sfc": "^3.0.0-beta.15",
+    "axios": "^0.24.0",
+    "element-plus": "^1.2.0-beta.6",
+    "eslint": "^7.4.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-vue": "^7.0.0-alpha.10",
+    "prettier": "^2.0.5",
+    "sass": "^1.26.10",
+    "typescript": "^3.9.6",
+    "unplugin-auto-import": "^0.5.1",
+    "unplugin-vue-components": "^0.17.6",
+    "vite": "^2.7.3",
+    "vue-eslint-parser": "^7.1.0"
+  }
+}
